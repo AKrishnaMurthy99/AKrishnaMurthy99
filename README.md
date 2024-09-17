@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a love for Foot
 - **Database**: MySQL, PostgreSQL
 - **Cloud Data Warehousing**: Google BigQuery 
 - **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Seaborn
-- **Tools**: Jupyter, Tableau
 - **Visualization tools**: Tableau, MS Excel
 - **Additional Skills**: Statistics, Reporting, Data Visualization 
 ---
