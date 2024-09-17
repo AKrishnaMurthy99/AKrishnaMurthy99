@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a love for Foot
 ---
 
 ### 🚀 Projects:
-- [Yellow Cabs - Case Study](https://github.com/AKrishnaMurthy99/Maximizing-Revenue---Yellow-Cabs) - Brief description of the project.
-- [Analysing 120 Years of Olympics Data](https://github.com/AKrishnaMurthy99/120-Years-of-Olympics-Data) - Brief description of the project.
-- [Customer Behaviour Analysis](https://github.com/AKrishnaMurthy99/Customer-Behavior-Analysis) - Brief description of the project.
+- [Yellow Cabs - Case Study](https://github.com/AKrishnaMurthy99/Maximizing-Revenue---Yellow-Cabs) - This project aims to use data-driven insights to enhance revenue streams for taxi drivers
+- [Analysing 120 Years of Olympics Data](https://github.com/AKrishnaMurthy99/120-Years-of-Olympics-Data) - This project delves into a comprehensive analysis of over a century of Olympic Games data. By leveraging SQL for data querying and Tableau for visualization, the project aims to uncover significant patterns and trends in Olympic participation, sports, athlete achievements, and medal distribution.
+- [Customer Behaviour Analysis](https://github.com/AKrishnaMurthy99/Customer-Behavior-Analysis) - This project explores customer behavior on an online shopping website, specifically focusing on the browsing habits and purchasing patterns of new and returning customers. 
 
 ---
 
