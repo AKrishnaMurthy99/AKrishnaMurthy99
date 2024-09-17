@@ -31,7 +31,7 @@ When I'm not working on data, you'll find me actively contributing as a **Rotara
 ---
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKrishnaMurthy99&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKrishnaMurthy99&layout=compact&langs_count=6&hide=html,css&theme=radical)
 
 
 
