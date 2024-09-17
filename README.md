@@ -1,6 +1,6 @@
 # Hi there, I'm Krishna 👋
 
-Welcome to my GitHub profile! I'm a passionate **Data Analyst** with continuously expanding expertise in the field of data through the latest tools and technologies. I enjoy working with data, building cool projects, and always learning something new.
+Welcome to my GitHub profile! I'm a passionate **Data Analyst**, continuously expanding expertise in the field of data through the latest tools and technologies. I enjoy working with data, building cool projects, and always learning something new.
 
 When I'm not working on data, you'll find me actively contributing as a **Rotaractor** or cheering for my favorite football team. 
 
