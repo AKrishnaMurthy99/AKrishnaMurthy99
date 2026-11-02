@@ -11,7 +11,7 @@ When I'm not working on data, you'll find me actively contributing as a **Rotara
 - **Database**: MySQL, PostgreSQL
 - **Cloud Data Warehousing**: Google BigQuery 
 - **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Seaborn
-- **Visualization tools**: Tableau, MS Excel
+- **Visualization tools**: Tableau, MS Excel, Looker, Redash
 - **Additional Skills**: Statistics, Reporting, Data Visualization 
 ---
 
